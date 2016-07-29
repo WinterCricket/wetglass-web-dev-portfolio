@@ -1,0 +1,142 @@
+h2{
+    
+        height: 40px;
+        font-size: 3em;
+        
+      }
+
+      h3{
+        
+        font-size: 2em;
+        
+      }
+      .top{
+        margin-top: 3.8em;
+      }
+      .white{
+        color: #ffffff; 
+       
+      }
+      .navbar {
+        opacity: 0.6;
+
+      }
+      .metal{
+        background-color: #a8a8a8;
+      }
+      .fog{
+        background-color: #515133;
+      }
+
+      }
+      .ghost{
+        opacity:0.6;
+      }
+      figure{
+        padding-right: 20%;
+      }
+      .mygray{
+        background-image: url("https://images.unsplash.com/photo-1433424007598-bd5d102e8597?format=auto&auto=compress&dpr=1&crop=entropy&fit=crop&w=1366&h=911&q=80");
+      }
+      col{
+        margin: 15px;
+      }
+      .backy{
+        background-size: cover;
+      }
+      .black{
+        background-color: #000;
+      }
+      .rainywindow1{
+        background-image: url("https://i.ytimg.com/vi/BNfaGk49l8M/maxresdefault.jpg");
+        opacity: 0.8;
+      }
+      .panedrops{
+        background-image: url("https://ldread.files.wordpress.com/2010/09/rain_drops_on_window_02_ies.jpg");
+      }
+      .paneblurry{
+        background-image: url("https://lalla500.files.wordpress.com/2012/02/dsc_9065.jpg");
+      }
+      .rainstreet{
+        background-image: url("http://az616578.vo.msecnd.net/files/2015/05/24/635680854265070871-654912290_rainy-feature.jpg");
+      }
+      .afterrain{
+        background-image: url("http://www.hdwallpaperspop.com/wp-content/uploads/2016/05/stormy-weather-screensaver.jpg");
+
+      }
+      .plowed-field{
+        background-image: url("https://localrootsfarm.files.wordpress.com/2012/05/img_2711.jpg");
+      }
+      .wet-grass{
+        background-image: url("http://www.lawnsmith.co.uk/blog/wp-content/uploads/2014/10/Wet-Grass-1024.jpg");
+      }
+      
+      }
+      .opacity{
+        opacity: 0.8;
+      }
+      .dense{
+        opacity: 1.0;
+      }
+      .storm{
+        background-image: url("http://hdnature.xyz/wp-content/uploads/2016/03/sky-stormy-sky-rural-country-background-road-pictures-for-desktop.jpg");
+      }
+      .goal{
+        background-image: url("https://whybecausescience.files.wordpress.com/2014/01/green-thunderstorm-clouds.jpg");
+      }
+      .gray{
+        background-color: skyblue;
+      }
+      .lakewater{
+        background-image: url("http://www.cltextures.com/texture-images/7/sea-lake-water-texture-image-1-1500.jpg");
+      }
+      .wetfield{
+        background-image: url("http://www.knowmoregrowmore.com/wp-content/uploads/2013/11/BlogNovWetSoil_news-in-pics_HLE.jpg");
+      }
+      .throughwindow{
+        background-image: url("http://www.pxleyes.com/images/contests/window%20view/fullsize/window%20view_4b0a38c36e42b_hires.jpg");
+      }
+      .windshield{
+        background-image: url("http://winniekepala.com/wp-content/uploads/Sony-Xperia-Z-Ultra-Sample-Pic_Outdoor-Rainy.jpg");
+      }
+      .highwayrain{
+        background-image: url("https://i.ytimg.com/vi/DJolWiWsA7s/maxresdefault.jpg");
+      }
+      .rainyroad{
+        background-image: url("http://4.bp.blogspot.com/-mGoMpQR78IY/U-RIQAPZILI/AAAAAAAApyQ/Escdx3hGI-Y/s1600/raining-on-the-road.jpg");
+      }
+  
+    .section {
+
+  position: relative;
+
+  min-height: 100%;
+
+  width: 100%;
+
+  box-sizing: border-box;
+
+  background: 50% 50% / cover;
+
+}
+
+
+
+#title {
+
+  background-image: url("https://ldread.files.wordpress.com/2010/09/rain_drops_on_window_02_ies.jpg");
+
+  background-attachment: fixed;
+
+}
+
+.fixed-nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 50px;
+  background-color: #000;
+
+}
